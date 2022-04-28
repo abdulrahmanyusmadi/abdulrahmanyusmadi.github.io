@@ -1,5 +1,9 @@
 # Abdul Rahman Yusmadi CV
 
+15 years experience supporting & transforming large scale enterprise infrastructure from implementation and operating both private & public cloud. 
+Cloud architect and technologist who helps organisations with transition and transformation, taking advantage of cloud technology and modern practices in providing reliable services to help customers accelerate business result.
+Technical evangelist leading a team of engineers in developing and operating various solutions in customer’s environment using Agile & DevOps methodologies.
+
 * Certified TOGAF9 Practitioner
 * Certified PRINCE2 Practitioner
 * Certified Azure DevOps Engineer
