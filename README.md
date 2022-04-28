@@ -45,7 +45,7 @@
 * Build Linux servers, migrate workloads, and handover to operation team
 * Automate server builds, configuration and software installation.
 
-**Unix/Linux Technical Lead, HP Enterprise Services, 2007-2013
+**Unix/Linux Technical Lead, HP Enterprise Services, 2007-2013**
 
 * Incident Management, Change Management, Problem Management, Configuration Management. Acting as a mentor to other L3, L2, and L1 engineers and develop internal team synergies. 
 * Participate in approved change requests (RFC’s) spanning Hardware upgrades, application changes and platform changes as documented in the RFC. 
