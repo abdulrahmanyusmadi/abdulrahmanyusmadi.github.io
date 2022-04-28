@@ -1,5 +1,3 @@
-# Curriculum Vitae
-
 * Certified Azure DevOps Expert
 
 **Lead Architect** | **DXC Technology** | **June 2021 - Present**
