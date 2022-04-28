@@ -28,7 +28,7 @@
 **Product Owner, DXC Technology, 2019 - Present**
 
 * Design & implement observability & monitoring solution for infrastructure, database, middleware & networking.
-* Products involved are Grafana, Prometheus, InfluxDB, VMware, Hyper-v, Microsoft SQL, IIS, Apache, GitHub
+* Solution involved tools like Grafana, Prometheus, InfluxDB, VMware, Hyper-v, Microsoft SQL, IIS, Apache, GitHub
 * Accounts delivered are University of Sydney, UWV, MetLife, BlueScope Steel, Kraft, Toyota, Macquarie & Uniper
 
 **Technical Project Lead, HP Enterprise Services, 2015-2019**
