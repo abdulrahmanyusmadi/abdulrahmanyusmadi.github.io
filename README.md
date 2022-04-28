@@ -54,4 +54,8 @@
 
 **Education**
 
-Universiti Putra Malaysia — Degree of Computer Science with Networking Major, 2005
+* Universiti Putra Malaysia — Degree of Computer Science with Networking Major, 2005
+
+**Others**
+
+* https://www.linkedin.com/in/amanyus/
