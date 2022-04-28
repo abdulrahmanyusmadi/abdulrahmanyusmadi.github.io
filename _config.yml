@@ -1,0 +1,5 @@
+#Jekyll configuration
+name: Abdul Rahman Yusmadi CV
+description: my curriculum vitae
+url: "http://abdulrahmanyusmadi.github.io"
+markdown: kramdown
