@@ -2,7 +2,6 @@
 
 **Lead Architect** | **DXC Technology** | **June 2021 - Present**
 -------------------|--------------------|------------------------
-test | test | test
 
 * Lead a team of architects & engineers to design, implement & maintain hybrid cloud infrastructure services.
 * Services included hybrid cloud service, midrange server service, container platform service, & API management. 
