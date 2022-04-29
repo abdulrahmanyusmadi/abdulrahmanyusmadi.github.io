@@ -12,7 +12,7 @@ Technical evangelist leading a team of engineers in developing and operating var
 * AWS Certified Solutions Architect - Associate (2018)
 * Certified PRINCE2 Practitioner (2017)
 * SuSE Certified Administrator (2017)
-* Certified TOGAF9 Practitioner (2016)
+* Certified TOGAF9 Practitioner (2016)[Verify](https://togaf9-cert.opengroup.org/certified-individuals)
 * Red Hat Certified Administrator (2014) [Verify](https://rhtapps.redhat.com/verify?certId=140-107-137)
 
 **Account Lead Architect, DXC Technology, June 2021 - Present**
