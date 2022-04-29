@@ -6,13 +6,14 @@
 Cloud architect and technologist who helps organisations with transition and transformation, taking advantage of cloud technology and modern practices in providing reliable services to help customers accelerate business result.
 Technical evangelist leading a team of engineers in developing and operating various solutions in customer’s environment using Agile & DevOps methodologies.
 
-* Certified TOGAF9 Practitioner
-* Certified PRINCE2 Practitioner
-* Certified Azure DevOps Engineer
-* Certified AWS SysOps Associate
-* AWS Solution Architect Associate
-* Red Hat Certified Administrator
-* SuSE Certified Administrator
+* Microsoft Certified: DevOps Engineer Expert (2021)
+* Microsoft Certified: Azure Administrator Associate(2021)
+* AWS Certified SysOps Administrator - Associate (2018)
+* AWS Certified Solutions Architect - Associate (2018)
+* Certified PRINCE2 Practitioner (2017)
+* SuSE Certified Administrator (2017)
+* Certified TOGAF9 Practitioner (2016)
+* Red Hat Certified Administrator (2014)
 
 **Account Lead Architect, DXC Technology, June 2021 - Present**
 
