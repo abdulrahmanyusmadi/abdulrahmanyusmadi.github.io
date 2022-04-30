@@ -1,16 +1,18 @@
 # Abdul Rahman Yusmadi CV
 
-*amanyus@gmail*
+```
+amanyus@gmail | +60192640190 | Selangor
+```
 
-15 years experience supporting & transforming large scale enterprise infrastructure from implementation and operating both private & public cloud. 
+_15 years experience supporting & transforming large scale enterprise infrastructure from implementation and operating both private & public cloud. 
 Cloud architect and technologist who helps organisations with transition and transformation, taking advantage of cloud technology and modern practices in providing reliable services to help customers accelerate business result.
-Technical evangelist leading a team of engineers in developing and operating various solutions in customer’s environment using Agile & DevOps methodologies.
+Technical evangelist leading a team of engineers in developing and operating various solutions in customer’s environment using Agile & DevOps methodologies._
 
-* Microsoft Certified: DevOps Engineer Expert (2021)[ID:1349503/Code:21630213](https://mcp.microsoft.com/Anonymous//Transcript/Validate)
-* Microsoft Certified: Azure Administrator Associate(2021)
+* Microsoft Certified: DevOps Engineer Expert (2021) [Verify](https://mcp.microsoft.com/Anonymous//Transcript/Validate) id:1349503/Code:21630213
+* Microsoft Certified: Azure Administrator Associate (2021)
 * AWS Certified SysOps Administrator - Associate (2018)
 * AWS Certified Solutions Architect - Associate (2018)
-* Certified PRINCE2 Practitioner (2017)[candidate #2613315066](https://www.axelos.com/successful-candidates-register)
+* Certified PRINCE2 Practitioner (2017) [Verify](https://www.axelos.com/successful-candidates-register) candidate #2613315066
 * SuSE Certified Administrator (2017)
 * Certified TOGAF9 Practitioner (2016)[Verify](https://togaf9-cert.opengroup.org/certified-individuals)
 * Red Hat Certified Administrator (2014) [Verify](https://rhtapps.redhat.com/verify?certId=140-107-137)
@@ -34,7 +36,7 @@ Technical evangelist leading a team of engineers in developing and operating var
 * Products involved are AWS, Azure, Terraform, CloudFormation, Azure Kubernetes Services, GitHub, Jenkins, Windows, Red Hat, Ubuntu, Ansible, Bash, Go, Python, PowerShell, Hashicorp Vault, Nexus Repository, Kong API Management, Grafana, InfluxDB, SonarQube
 * Clients are Japan based Fast Retailing (Uniqlo), DXC Connected Transportation Platform, Singapore based National Library Board
 
-**Product Owner, DXC Technology, 2019 - Present**
+**Technical Product Lead, DXC Technology, 2019 - Present**
 
 * Design & implement observability & monitoring solution for infrastructure, database, middleware & networking.
 * Solution involved tools like Grafana, Prometheus, InfluxDB, VMware, Hyper-v, Microsoft SQL, IIS, Apache, GitHub
