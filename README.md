@@ -8,14 +8,15 @@ _15 years experience supporting & transforming large scale enterprise infrastruc
 Cloud architect and technologist who helps organisations with transition and transformation, taking advantage of cloud technology and modern practices in providing reliable services to help customers accelerate business result.
 Technical evangelist leading a team of engineers in developing and operating various solutions in customer’s environment using Agile & DevOps methodologies._
 
+* Microsoft Certified: Azure Solutions Architect Expert ([2022](https://www.credly.com/badges/ff1c079d-c81f-4423-9a1d-83610534cc36/public_url))
 * Microsoft Certified: DevOps Engineer Expert ([2021](https://www.credly.com/badges/fe165ed7-6374-41db-be43-a30b5ab8fed9/public_url))
 * Microsoft Certified: Azure Administrator Associate ([2021](https://www.credly.com/badges/67992f31-1712-4284-ab0e-0041bfcdf976/public_url))
 * AWS Certified SysOps Administrator - Associate ([2018](https://www.credly.com/badges/bb3f97ab-b85b-4b30-80d9-c69892a7feab/public_url))
 * AWS Certified Solutions Architect - Associate ([2018](https://www.credly.com/badges/494c487c-ef54-4e4e-9945-fb3df68eb1bf/public_url))
-* Certified PRINCE2 Practitioner (2017) [Verify](https://www.axelos.com/successful-candidates-register) candidate #2613315066
+* Certified PRINCE2 Practitioner ([2017](https://www.axelos.com/successful-candidates-register)) candidate #2613315066
 * SuSE Certified Administrator (2017)
-* Certified TOGAF9 Practitioner (2016)[Verify](https://togaf9-cert.opengroup.org/certified-individuals)
-* Red Hat Certified Administrator (2014) [Verify](https://rhtapps.redhat.com/verify?certId=140-107-137)
+* Certified TOGAF9 Practitioner ([2016](https://togaf9-cert.opengroup.org/certified-individuals))
+* Red Hat Certified Administrator ([2014](https://rhtapps.redhat.com/verify?certId=140-107-137))
 
 **Account Lead Architect, DXC Technology, June 2021 - Present**
 
