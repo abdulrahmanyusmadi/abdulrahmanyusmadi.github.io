@@ -8,10 +8,10 @@ _15 years experience supporting & transforming large scale enterprise infrastruc
 Cloud architect and technologist who helps organisations with transition and transformation, taking advantage of cloud technology and modern practices in providing reliable services to help customers accelerate business result.
 Technical evangelist leading a team of engineers in developing and operating various solutions in customer’s environment using Agile & DevOps methodologies._
 
-* Microsoft Certified: DevOps Engineer Expert (2021) [Verify](https://mcp.microsoft.com/Anonymous//Transcript/Validate) id:1349503/Code:21630213
-* Microsoft Certified: Azure Administrator Associate (2021)
-* AWS Certified SysOps Administrator - Associate (2018)
-* AWS Certified Solutions Architect - Associate (2018)
+* Microsoft Certified: DevOps Engineer Expert ([2021](https://www.credly.com/badges/fe165ed7-6374-41db-be43-a30b5ab8fed9/public_url))
+* Microsoft Certified: Azure Administrator Associate ([2021](https://www.credly.com/badges/67992f31-1712-4284-ab0e-0041bfcdf976/public_url))
+* AWS Certified SysOps Administrator - Associate ([2018](https://www.credly.com/badges/bb3f97ab-b85b-4b30-80d9-c69892a7feab/public_url))
+* AWS Certified Solutions Architect - Associate ([2018](https://www.credly.com/badges/494c487c-ef54-4e4e-9945-fb3df68eb1bf/public_url))
 * Certified PRINCE2 Practitioner (2017) [Verify](https://www.axelos.com/successful-candidates-register) candidate #2613315066
 * SuSE Certified Administrator (2017)
 * Certified TOGAF9 Practitioner (2016)[Verify](https://togaf9-cert.opengroup.org/certified-individuals)
