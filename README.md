@@ -1,7 +1,7 @@
 # Abdul Rahman Yusmadi CV
 
 ```
-amanyus@gmail | +60192640190 | Selangor
+amanyus@gmail | +60192640190 | Selangor | https://www.linkedin.com/in/amanyus/
 ```
 
 _15 years experience supporting & transforming large scale enterprise infrastructure from implementation and operating both private & public cloud. 
@@ -67,10 +67,6 @@ Technical evangelist leading a team of engineers in developing and operating var
 **Education**
 
 * Universiti Putra Malaysia — Degree of Computer Science with Networking Major, 2005
-
-**Others**
-
-* https://www.linkedin.com/in/amanyus/
 
 **Compliments**
 
