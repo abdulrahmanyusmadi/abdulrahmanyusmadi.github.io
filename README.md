@@ -1,7 +1,7 @@
 # Abdul Rahman Yusmadi CV
 
 ```
-amanyus@gmail | +60192640190 | Selangor | https://www.linkedin.com/in/amanyus/
+amanyus@gmail | +60192640190 | Selangor | abdulrahmanyusmadi.github.io | linkedin.com/in/amanyus/
 ```
 
 _15 years experience supporting & transforming large scale enterprise infrastructure from implementation and operating both private & public cloud. 
