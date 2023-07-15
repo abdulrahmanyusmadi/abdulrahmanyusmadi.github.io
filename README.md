@@ -1,7 +1,7 @@
 # Abdul Rahman Yusmadi CV
 
 ```
-amanyus@gmail | +60192640190 | Selangor | abdulrahmanyusmadi.github.io | linkedin.com/in/amanyus/
+amanyus@gmail | Selangor | abdulrahmanyusmadi.github.io | linkedin.com/in/amanyus/
 ```
 
 _15 years experience supporting & transforming large scale enterprise infrastructure from implementation and operating both private & public cloud. 
@@ -18,7 +18,18 @@ Technical evangelist leading a team of engineers in developing and operating var
 * Certified TOGAF9 Practitioner ([2016](https://togaf9-cert.opengroup.org/certified-individuals))
 * Red Hat Certified Administrator ([2014](https://rhtapps.redhat.com/verify?certId=140-107-137))
 
-**Account Lead Architect, DXC Technology, June 2021 - Present**
+**Cloud Solution Architect, Crayon, August 2022 - Present**
+
+* The Cloud Architect drives high priority customer initiatives and is a technical role that is accountable for the end to end customer cloud deployment.
+* The Cloud Architect is the team Subject Matter Expert in consultancy and managed services to address customer needs with cloud technology and solutions.
+* The role supports sales and delivery teams in discovering opportunities, gathering customer requirements, performing Cloud Assessments, architecture and designing technical solutions.
+* As the architect of customer solutions, centrally involved in defining and executing plans and projects with global/regional/local delivery resources, with quality assurance and customer success in adopting cloud technology.
+* The Cloud Architect drives high priority customer initiatives and is a technical role that is accountable for the end to end customer cloud deployment.
+* The Cloud Architect is the team Subject Matter Expert in consultancy and managed services to address customer needs with cloud technology and solutions.
+* The role supports sales and delivery teams in discovering opportunities, gathering customer requirements, performing Cloud Assessments, architecture and designing technical solutions.
+* As the architect of customer solutions, centrally involved in defining and executing plans and projects with global/regional/local delivery resources, with quality assurance and customer success in adopting cloud technology.
+
+**Account Lead Architect, DXC Technology, June 2021 - August 2022**
 
 * Lead a team of architects & engineers to design, implement & maintain hybrid cloud infrastructure services.
 * Services included hybrid cloud service, midrange server service, container platform service, & API management. 
