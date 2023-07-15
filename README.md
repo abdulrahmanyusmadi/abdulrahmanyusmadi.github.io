@@ -20,14 +20,16 @@ Technical evangelist leading a team of engineers in developing and operating var
 
 **Cloud Solution Architect, Crayon, August 2022 - Present**
 
-* The Cloud Architect drives high priority customer initiatives and is a technical role that is accountable for the end to end customer cloud deployment.
-* The Cloud Architect is the team Subject Matter Expert in consultancy and managed services to address customer needs with cloud technology and solutions.
-* The role supports sales and delivery teams in discovering opportunities, gathering customer requirements, performing Cloud Assessments, architecture and designing technical solutions.
-* As the architect of customer solutions, centrally involved in defining and executing plans and projects with global/regional/local delivery resources, with quality assurance and customer success in adopting cloud technology.
-* The Cloud Architect drives high priority customer initiatives and is a technical role that is accountable for the end to end customer cloud deployment.
-* The Cloud Architect is the team Subject Matter Expert in consultancy and managed services to address customer needs with cloud technology and solutions.
-* The role supports sales and delivery teams in discovering opportunities, gathering customer requirements, performing Cloud Assessments, architecture and designing technical solutions.
-* As the architect of customer solutions, centrally involved in defining and executing plans and projects with global/regional/local delivery resources, with quality assurance and customer success in adopting cloud technology.
+* Drives high priority customer initiatives and is a technical role that is accountable for the end to end customer cloud deployment. 
+* Act as team's Subject Matter Expert in consultancy and managed services to address customer needs with cloud technology and solutions. 
+* Supports sales and delivery teams in discovering opportunities, gathering customer requirements, performing cloud assessments, architecture and designing technical solutions. 
+* Centrally involved in defining and executing plans and projects with global/regional/local delivery resources, with quality assurance and customer success in adopting cloud technology.
+* During the employment, I have led the following:
+  * Led a bank in cloud adoption, landing zone design and implementation.
+  * Drove design and migration of a Malaysia top learning app.
+  * Helped an energy industry customer created the first landing zone and workload in the cloud.
+  * Established delivery practice to accelerate cloud design and build.
+  * Started an infrastructure DevOps delivery team.
 
 **Account Lead Architect, DXC Technology, June 2021 - August 2022**
 
