@@ -4,9 +4,11 @@
 amanyus@gmail | Selangor | abdulrahmanyusmadi.github.io | linkedin.com/in/amanyus/
 ```
 
-_15 years experience supporting & transforming large scale enterprise infrastructure from implementation and operating both private & public cloud. 
-Cloud architect and technologist who helps organisations with transition and transformation, taking advantage of cloud technology and modern practices in providing reliable services to help customers accelerate business result.
-Technical evangelist leading a team of engineers in developing and operating various solutions in customer’s environment using Agile & DevOps methodologies._
+_15 years of delivering IT services from small to large scale enterprise infrastructure, private & public cloud. 
+Cloud architect and technologist who helps organizations with transition and transformation, taking advantage of latest technology and modern practices to help customers accelerate business result.
+Technical evangelist who led a team of engineers in developing and operating various solutions in customer’s environment using Agile & DevOps methodologies._
+
+_Someone who also enjoys travelling, food and sports._
 
 * Microsoft Certified: Azure Solutions Architect Expert ([2022](https://www.credly.com/badges/ff1c079d-c81f-4423-9a1d-83610534cc36/public_url))
 * Microsoft Certified: DevOps Engineer Expert ([2021](https://www.credly.com/badges/fe165ed7-6374-41db-be43-a30b5ab8fed9/public_url))
