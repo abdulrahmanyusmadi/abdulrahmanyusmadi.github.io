@@ -40,7 +40,7 @@ _Someone who also enjoys travelling, food and sports._
 * Products involved are Azure, Terraform, Azure DevOps, GitHub Actions, Azure Stack HCI, Azure Arc, Windows, Red Hat, Ubuntu, Packer, PowerShell DSC, Bash, Python, Azure Kubernetes Service, K3S, ArgoCD, Helm, Bitnami production runtime, Velero, Prometheus, Thanos,
 * Client is manufacturing company based in Sweden with 100 plus factory sites worldwide.
 
-**Regional Lead for Container Platform Service, DXC Technology, 2021 - Present**
+**Regional Lead for Container Platform Service, DXC Technology, 2021 - August 2022**
 
 * Support various accounts pursuit and regional sales team by assessing clients requirement and provide technical solution for container platform services.
 
