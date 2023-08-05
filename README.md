@@ -52,7 +52,7 @@ _Someone who also enjoys travelling, food and sports._
 * Products involved are AWS, Azure, Terraform, CloudFormation, Azure Kubernetes Services, GitHub, Jenkins, Windows, Red Hat, Ubuntu, Ansible, Bash, Go, Python, PowerShell, Hashicorp Vault, Nexus Repository, Kong API Management, Grafana, InfluxDB, SonarQube
 * Clients are Japan based Fast Retailing (Uniqlo), DXC Connected Transportation Platform, Singapore based National Library Board
 
-**Technical Product Lead, DXC Technology, 2019 - Present**
+**Technical Product Lead, DXC Technology, 2019 - 2022**
 
 * Design & implement observability & monitoring solution for infrastructure, database, middleware & networking.
 * Solution involved tools like Grafana, Prometheus, InfluxDB, VMware, Hyper-v, Microsoft SQL, IIS, Apache, GitHub
