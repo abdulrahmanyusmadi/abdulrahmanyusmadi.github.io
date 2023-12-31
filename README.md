@@ -20,7 +20,18 @@ _Someone who also enjoys travelling, food and sports._
 * Certified TOGAF9 Practitioner ([2016](https://togaf9-cert.opengroup.org/certified-individuals))
 * Red Hat Certified Administrator ([2014](https://rhtapps.redhat.com/verify?certId=140-107-137))
 
-**Cloud Solution Architect, Crayon, August 2022 - Present**
+**Senior Technical Architect, Viaccess Orca, October 2023 - Present**
+
+* Support architecture of our customers based in Latin America, Europe, Middle East and Asia with technical leadership,to deliver solution platform (IaaS, PaaS) to customers.
+* Lead design and implementation of our industrial platform for development and production (VM & Kubernetes based).
+* Contribute to enterprise architecture definition and the mid-term and long-term technology vision.
+* Define our worldwide customers and partners’ architecture.
+* Contribute to the set-up and animation of the architect community.
+* Keep coordinate with IT and architects of Orange group (mother company).
+* Work in agile (SAFe) and DevOps environment.
+* Design solution for customers from around the world in a software company.
+
+**Cloud Solution Architect, Crayon, August 2022 - October 2023**
 
 * Drives high priority customer initiatives and is a technical role that is accountable for the end to end customer cloud deployment. 
 * Act as team's Subject Matter Expert in consultancy and managed services to address customer needs with cloud technology and solutions. 
