@@ -8,7 +8,7 @@ _15 years of delivering IT services from small to large scale enterprise infrast
 Cloud architect and technologist who helps organizations with transition and transformation, taking advantage of latest technology and modern practices to help customers accelerate business result.
 Technical evangelist who led a team of engineers in developing and operating various solutions in customer’s environment using Agile & DevOps methodologies._
 
-_Someone who also enjoys travelling, food and sports._
+_Someone who also enjoys aviation, travel, and food._
 
 * Certified SAFe Agilist ([2024](https://www.credly.com/badges/65d38984-f5af-4140-928c-ad88d6d3cab9/linked_in?t=s9qcmc))
 * Microsoft Certified: Azure Solutions Architect Expert ([2022](https://www.credly.com/badges/ff1c079d-c81f-4423-9a1d-83610534cc36/public_url))
@@ -31,6 +31,11 @@ _Someone who also enjoys travelling, food and sports._
 * Keep coordinate with IT and architects of Orange group (mother company).
 * Work in agile (SAFe) and DevOps environment.
 * Design solution for customers from around the world in a software company.
+* During the employment, I have led the following:
+  * Led and implemented landing zone framework for Azure Cloud with IaaC.
+  * Led and develop Azure blueprint for hosting company's solution.
+  * Led and upskill regional engineers for on-premise Google Kubernetes Engine (GKE).
+  * Led the design and implementation of CI/CD which improved deployment time and collaboration between external developer and customer.
 
 **Cloud Solution Architect, Crayon, August 2022 - October 2023**
 
