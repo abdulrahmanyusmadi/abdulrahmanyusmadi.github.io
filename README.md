@@ -10,6 +10,7 @@ Technical evangelist who led a team of engineers in developing and operating var
 
 _Someone who also enjoys aviation, travel, and food._
 
+* Certified AWS Solutions Architect - Professional ([2025](https://www.credly.com/badges/b70b99df-6134-42b4-bf28-f8bcf731c148))
 * Certified SAFe Agilist ([2024](https://www.credly.com/badges/65d38984-f5af-4140-928c-ad88d6d3cab9/linked_in?t=s9qcmc))
 * Microsoft Certified: Azure Solutions Architect Expert ([2022](https://www.credly.com/badges/ff1c079d-c81f-4423-9a1d-83610534cc36/public_url))
 * Microsoft Certified: DevOps Engineer Expert ([2021](https://www.credly.com/badges/fe165ed7-6374-41db-be43-a30b5ab8fed9/public_url))
