@@ -22,6 +22,13 @@ _Someone who also enjoys aviation, travel, and food._
 * Certified TOGAF9 Practitioner ([2016](https://togaf9-cert.opengroup.org/certified-individuals))
 * Red Hat Certified Administrator ([2014](https://rhtapps.redhat.com/verify?certId=140-107-137))
 
+**AWS Experience**
+
+* 2017: Provided AWS Managed Services for Fast Retailing (Uniqlo)
+* 2020: Implement AWS infrastructure for National Library
+* 2022: AWS Cloud Solution Architect for Crayon
+* 2024: Reduced AWS IT spending and implemented cost governance for Viaccess-Orca
+
 **Senior Technical Architect, Viaccess Orca, October 2023 - Present**
 
 * Support architecture of our customers based in Latin America, Europe, Middle East and Asia with technical leadership,to deliver solution platform (IaaS, PaaS) to customers.
