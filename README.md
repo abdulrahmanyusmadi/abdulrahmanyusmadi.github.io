@@ -28,7 +28,8 @@ _Someone who also enjoys aviation, travel, and food._
 * 2020: Implement AWS infrastructure for National Library
 * 2022: AWS Cloud Solution Architect for Crayon
 * 2024: Reduced AWS IT spending and implemented cost governance for Viaccess-Orca
-* 2025: Implemented DNS infrastructure on AWS
+* 2024: Migrate and manage LMS for Persatuan Remisier
+* 2025: Implemented DNS infrastructure on AWS (almost 1b queries/day)
 
 **Senior Technical Architect, Viaccess Orca, October 2023 - Present**
 
