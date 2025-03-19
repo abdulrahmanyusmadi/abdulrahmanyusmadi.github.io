@@ -30,6 +30,7 @@ _Someone who also enjoys aviation, travel, and food._
 * 2024: Reduced AWS IT spending and implemented cost governance for Viaccess-Orca
 * 2024: Migrate and manage LMS for Persatuan Remisier
 * 2025: Implemented DNS infrastructure on AWS (almost 1b queries/day)
+* 2025: Optimized cloud cost consumption for top education app (30% savings)
 
 **Senior Technical Architect, Viaccess Orca, October 2023 - Present**
 
