@@ -19,7 +19,7 @@ _Someone who also enjoys aviation, travel, and food._
 * AWS Certified Solutions Architect - Associate ([2018](https://www.credly.com/badges/494c487c-ef54-4e4e-9945-fb3df68eb1bf/public_url))
 * Certified PRINCE2 Practitioner ([2017](https://www.axelos.com/successful-candidates-register)) candidate #2613315066
 * SuSE Certified Administrator (2017)
-* Certified TOGAF9 Practitioner ([2016](https://togaf9-cert.opengroup.org/certified-individuals))
+* Certified TOGAF9 Practitioner ([Certification Number: 108675](https://togaf9-cert.opengroup.org/certified-individuals))
 * Red Hat Certified Administrator ([2014](https://rhtapps.redhat.com/verify?certId=140-107-137))
 
 **AWS Experience**
