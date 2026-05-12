@@ -37,7 +37,7 @@ _Someone who also enjoys aviation, travel, and food._
 * **AWS Infrastructure Management:** Manages multi-account AWS cloud infrastructure, encompassing compute, networking, and access control for production and non-production environments.
 * **Security & Compliance:** Leads security remediation activities using AWS Config and Inspector, and supports compliance audits (CSRA) to strengthen the cloud security posture.
 * **Migration Coordination:** Oversees cloud migration projects by validating technical documentation, ensuring operational readiness, and managing handovers between vendors and internal teams.
-* **Architecture & Governance:** Contributes to architectural initiatives like NAT gateway centralization and landing zone development, while establishing SOPs for AWS platform operations and governance.
+* **Architecture & Governance:** Contributes to architectural initiatives like landing zone development, while establishing SOPs for AWS platform operations and governance.
 
 **Senior Technical Architect, Viaccess Orca, October 2023 - July 2025**
 
