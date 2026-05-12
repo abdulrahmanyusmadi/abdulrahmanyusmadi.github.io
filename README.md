@@ -67,11 +67,3 @@ _Someone who also enjoys aviation, travel, and food._
 **Education**
 
 * Universiti Putra Malaysia — Degree of Computer Science with Networking Major, 2005
-
-**Compliments**
-
-*Great Leadership as SKF DM Lead Architect*
- 
-I hereby want to recognize the fantastic job you have done so far in leading the architecture activities for SKF Digital Manufacturing. You have been building your team, and are aligning, leading it to achieve our ambitious goal of implementing and delivering Hybrid Cloud Services at SKF DM. You manage to stay at the right level of detail, keeping the big picture in mind, managing dependencies and constraints. You are recognized in your role of lead architect both internally and externally at SKF. I also very much especially appreciate the different look you take on things, your creativity to come up with new ways of collaborating, internally and with SKF, with a more Agile approach. This is not only inspiring for your team, but also for myself and our leadership team. Well done, thanks a lot and I'm looking forward to our continued collaboration in 2022.
-
-_Olivier Bonameau, Account Delivery Manager_
