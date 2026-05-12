@@ -42,6 +42,13 @@ _Someone who also enjoys aviation, travel, and food._
 * Provide updates to stakeholders on product development processes, costs, and budgets.
 * Continually research current and emerging technologies and propose changes where needed.
 * Understand all aspects of Project & Operation Team constraint to include scope, schedule, budget, quality, cost, risk, and resources. Be able to recommend and make technological and managerial decisions to reconcile these restrictions with Project & Operation Team goals.
+* During the employment, I have led the following:
+  * Managed AWS cloud infrastructure across multiple accounts, including compute, networking, and access control.
+  * Led security and compliance activities including remediation of AWS Config alerts, vulnerability assessment (Inspector), and audit support (CSRA).
+  * Coordinated cloud migration projects by reviewing technical documentation, ensuring operational readiness, and validating handover deliverables.
+  * Acted as key liaison between internal teams, AWS, and external vendors to resolve technical issues and drive project execution.
+  * Contributed to architecture and platform design initiatives, including AWS landing zone development.
+  * Developed and reviewed standard operating procedures (SOPs) for AWS platform operations, access management, and governance.
 
 **Senior Technical Architect, Viaccess Orca, October 2023 - July 2025**
 
