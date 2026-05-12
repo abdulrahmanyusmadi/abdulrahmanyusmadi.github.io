@@ -34,63 +34,28 @@ _Someone who also enjoys aviation, travel, and food._
 
 **Senior Technical Architect, Viaccess Orca, October 2023 - Present**
 
-* Support architecture of our customers based in Latin America, Europe, Middle East and Asia with technical leadership,to deliver solution platform (IaaS, PaaS) to customers.
-* Lead design and implementation of our industrial platform for development and production (VM & Kubernetes based).
-* Contribute to enterprise architecture definition and the mid-term and long-term technology vision.
-* Define our worldwide customers and partners’ architecture.
-* Contribute to the set-up and animation of the architect community.
-* Keep coordinate with IT and architects of Orange group (mother company).
-* Work in agile (SAFe) and DevOps environment.
-* Design solution for customers from around the world in a software company.
-* During the employment, I have led the following:
-  * Led and implemented landing zone framework for Azure Cloud with IaaC.
-  * Led and develop Azure blueprint for hosting company's solution.
-  * Led and upskill regional engineers for on-premise Google Kubernetes Engine (GKE).
-  * Led the design and implementation of CI/CD which improved deployment time and collaboration between external developer and customer.
+* **Global Technical Leadership:** Provides architectural support for customers across Latin America, Europe, Middle East, and Asia, focusing on IaaS and PaaS solution platforms.
+* **Platform Design:** Leads the design and implementation of industrial development/production platforms using VM and Kubernetes technologies.
+* **Azure Specialization:** Directed the implementation of Azure landing zone frameworks using Infrastructure as Code (IaaC) and developed blueprints for solution hosting.
+* **Operational Excellence:** Improved deployment times and collaboration through enhanced CI/CD design and upskilled regional engineers in on-premise Google Kubernetes Engine (GKE).
 
 **Cloud Solution Architect, Crayon, August 2022 - October 2023**
 
-* Drives high priority customer initiatives and is a technical role that is accountable for the end to end customer cloud deployment. 
-* Act as team's Subject Matter Expert in consultancy and managed services to address customer needs with cloud technology and solutions. 
-* Supports sales and delivery teams in discovering opportunities, gathering customer requirements, performing cloud assessments, architecture and designing technical solutions. 
-* Centrally involved in defining and executing plans and projects with global/regional/local delivery resources, with quality assurance and customer success in adopting cloud technology.
-* During the employment, I have led the following:
-  * Led a bank in cloud adoption, landing zone design and implementation.
-  * Drove design and migration of a Malaysia top learning app.
-  * Helped an energy industry customer created the first landing zone and workload in the cloud.
-  * Established delivery practice to accelerate cloud design and build.
-  * Started an infrastructure DevOps delivery team.
+* **End-to-End Deployment:** Accountable for complete customer cloud deployments, acting as a Subject Matter Expert (SME) for consultancy and managed services.
+* **Sales & Delivery Support:** Assisted in opportunity discovery, requirement gathering, and technical solution design for various cloud assessments.
+* **Key Projects:** Led a bank’s cloud adoption/landing zone implementation, drove the migration of a major Malaysian learning app, and established an infrastructure DevOps delivery team.
 
 **Technical Consultant, DXC Technology, April 2017 - August 2022**
 
-* Lead a team of architects & engineers to design, implement & maintain hybrid cloud infrastructure services.
-* Services included hybrid cloud service, midrange server service, container platform service, & API management. 
-* Products involved are Azure, Terraform, Azure DevOps, GitHub Actions, Azure Stack HCI, Azure Arc, Windows, Red Hat, Ubuntu, Packer, PowerShell DSC, Bash, Python, Azure Kubernetes Service, K3S, ArgoCD, Helm, Bitnami production runtime, Velero, Prometheus, Thanos,
-* Client is manufacturing company based in Sweden with 100 plus factory sites worldwide.
-* Support various accounts pursuit and regional sales team by assessing clients requirement and provide technical solution for container platform services.
-* Design, implement & maintain cloud infrastructure as code. 
-* Design, implement & maintain API management. 
-* Design, implement & maintain CI/CD pipelines for infrastructure & application deployment. 
-* Products involved are AWS, Azure, Terraform, CloudFormation, Azure Kubernetes Services, GitHub, Jenkins, Windows, Red Hat, Ubuntu, Ansible, Bash, Go, Python, PowerShell, Hashicorp Vault, Nexus Repository, Kong API Management, Grafana, InfluxDB, SonarQube
-* Clients are Japan based Fast Retailing (Uniqlo), DXC Connected Transportation Platform, Singapore based National Library Board
-* Design & implement observability & monitoring solution for infrastructure, database, middleware & networking.
-* Solution involved tools like Grafana, Prometheus, InfluxDB, VMware, Hyper-v, Microsoft SQL, IIS, Apache, GitHub
-* Accounts delivered are University of Sydney, UWV, MetLife, BlueScope Steel, Kraft, Toyota, Macquarie & Uniper
+* **Hybrid Cloud Infrastructure:** Led teams in designing and maintaining hybrid cloud services (Azure, AWS, K8s) and API management for global clients like Fast Retailing (Uniqlo) and the National Library Board (Singapore).
+* **Automation & Pipelines:** Designed and maintained Infrastructure as Code (Terraform, CloudFormation) and CI/CD pipelines for both application and infrastructure deployment.
+* **Observability:** Implemented monitoring solutions using tools like Grafana, Prometheus, and InfluxDB across various international accounts (University of Sydney, MetLife, Toyota, etc.).
 
 **Technical Consultant, HP Enterprise Services, August 2007 - April 2017**
 
-* Lead more than 20 engineers on the implementation of private cloud infrastructure with around 2500 ESXi across 21 data centers.
-* Accounts delivered are Deutsche Bank, CIBC, Ahold, Sykehuspartner, Baker Hughes, Belgium Post, Molsoon Coors.
-* Streamline build processes and automate ESXi build. 
-* Support operation team on complex problems. 
-* Migrate workloads from incumbent vendor to HP datacenter
-* Accounts delivered are Carrefour, Cathay Pacific & Ahold.
-* Build Linux servers, migrate workloads, and handover to operation team
-* Automate server builds, configuration and software installation.
-* Incident Management, Change Management, Problem Management, Configuration Management. Acting as a mentor to other L3, L2, and L1 engineers and develop internal team synergies. 
-* Participate in approved change requests (RFC’s) spanning Hardware upgrades, application changes and platform changes as documented in the RFC. 
-* Participate in formal Escalations when required to support the escalation team and as an escalation engineer backup when crisis events occur. I am responsible for driving technical service resolutions to restore service and maintaining high levels of customer satisfaction by technical and functional support and to provide Root-Cause Analysis. 
-* Perform Hardware break fix repairs and firmware updates where necessary on all supported platforms, which include SPARC machines, x86 blades, Itanium blades, Superdomes as well as other large systems servers. Running process improvement projects.
+* **Large-Scale Infrastructure:** Led over 20 engineers in implementing private cloud infrastructure involving 2,500 ESXi hosts across 21 data centers for clients like Deutsche Bank and CIBC.
+* **Migration & Automation:** Streamlined build processes, automated ESXi builds, and managed workload migrations for accounts including Carrefour and Cathay Pacific.
+* **L3 Support & Mentorship:** Handled complex technical escalations, root-cause analysis, and firmware/hardware repairs while mentoring junior engineers in a mission-critical environment.
 
 **Education**
 
