@@ -1,7 +1,7 @@
 # Abdul Rahman Yusmadi CV
 
 ```
-amanyus@gmail | Selangor | +60 166157156
+linkedin.com/in/amanyus | Selangor | +60 166157156
 ```
 
 _15 years of delivering IT services from small to large scale enterprise infrastructure, private & public cloud. 
