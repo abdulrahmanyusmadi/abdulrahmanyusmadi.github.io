@@ -32,7 +32,14 @@ _Someone who also enjoys aviation, travel, and food._
 * 2025: Delivered POC of DNS infrastructure on AWS (almost 1b queries/day)
 * 2025: Optimized cloud cost consumption (30%+ savings) and cross-region migration for a national education app
 
-**Senior Technical Architect, Viaccess Orca, October 2023 - Present**
+**Cloud / AWS Engineer, Technomech, August 2025 - Present**
+
+* **AWS Infrastructure Management:** Manages multi-account AWS cloud infrastructure, encompassing compute, networking, and access control for production and non-production environments.
+* **Security & Compliance:** Leads security remediation activities using AWS Config and Inspector, and supports compliance audits (CSRA) to strengthen the cloud security posture.
+* **Migration Coordination:** Oversees cloud migration projects by validating technical documentation, ensuring operational readiness, and managing handovers between vendors and internal teams.
+* **Architecture & Governance:** Contributes to architectural initiatives like NAT gateway centralization and landing zone development, while establishing SOPs for AWS platform operations and governance.
+
+**Senior Technical Architect, Viaccess Orca, October 2023 - July 2025**
 
 * **Global Technical Leadership:** Provides architectural support for customers across Latin America, Europe, Middle East, and Asia, focusing on IaaS and PaaS solution platforms.
 * **Platform Design:** Leads the design and implementation of industrial development/production platforms using VM and Kubernetes technologies.
